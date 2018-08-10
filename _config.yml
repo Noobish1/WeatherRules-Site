@@ -68,7 +68,7 @@ device: iphone-x-space-gray-vertical # REQUIRED
 background_color: "#8e867b" # Optional
 background_image: /images/backgrounds/blue-rain.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
-link_color: # Optional
+link_color: white # Optional
 social_link_color: white # Optional
 download_button_background_color: "#0191FF" # Optional
 download_button_text_color: white; # Optional
